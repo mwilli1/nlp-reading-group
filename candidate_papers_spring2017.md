@@ -64,3 +64,11 @@ https://arxiv.org/pdf/1611.09823v1.pdf
 
 ### Emergence of Gricean Maxims from Multi-Agent Decision Theory
 http://nlp.stanford.edu/pubs/cards-naacl2013.pdf
+
+# Proposed by Megan:
+
+### Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses
+https://arxiv.org/pdf/1708.07149.pdf
+
+### Deep Keyphrase Generation
+https://arxiv.org/pdf/1704.06879.pdf
